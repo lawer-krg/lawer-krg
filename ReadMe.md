@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Fullstack-Dev<br>👯 I’m looking to collaborate on: Instagram & GitHub<br>🌱 I’m currently learning: Data Science <br>💬 Ask me about: Virtual Machines & Virus Analysis<br>⚡ Fun fact: Multilingual
+🔭 I’m currently working on: Fullstack-Dev<br>👯 I’m looking to collaborate on: Instagram & GitHub<br>🌱 I’m currently learning: Data Science <br>💬 Ask me about: Virtual Machines & Virus Analysis<br>⚡Fun fact: Multilingual
 
 
 ## 🌐 Socials:
