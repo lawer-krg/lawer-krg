@@ -13,7 +13,7 @@
 - 🔭 Currently working on Last Version of Kompass Project
 - 🌱 Learning Mastering AI & Usage
 - 💬 Ask me about Anything, Especially Virtualization
-- 📫Reach me via IG @lawer.krg or ✉️ laweryounes635@gmail.com
+- 📫Reach me via IG <a href="https://www.instagram.com/lawer.krg/">@lawer.krg</a> or ✉️ laweryounes635@gmail.com
 - ⚡ Fun fact Multilingual
 - 📄 Know about my experiences Via https://drive.google.com/file/d/1U1EjmV97nqqTM-9Nasx-3oRakKmJzcpO/view?usp=sharing
 
@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/lawer-krg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lawer-krg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="lawer-krg's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lawer-krg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="lawer-krg's GitHub Stat[...]
   </a>
   <img src="https://streak-stats.demolab.com/?user=lawer-krg&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="lawer-krg's GitHub Streak" width="49%" />
 </p>
