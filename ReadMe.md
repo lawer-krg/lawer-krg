@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/lawer-krg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lawer-krg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="lawer-krg's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lawer-krg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="lawer-krg's GitHub Stat[...]
   </a>
   <img src="https://streak-stats.demolab.com/?user=lawer-krg&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="lawer-krg's GitHub Streak" width="49%" />
 </p>
@@ -87,7 +87,7 @@
 <h3 align="center">Virtualization</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/claude/claude-icon.svg" alt="Claude" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
 
 </p>
@@ -107,7 +107,8 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/claude/claude-icon.svg" alt="Claude" width="40" />
 
 </p>
 
