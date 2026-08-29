@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 120 120">
+  <g transform="translate(60,60)">
+    <g fill="#d77b63">
+      <!-- 12-point starburst like the provided image -->
+      <path d="M0,-40 L6,-12 L36,-6 L12,6 L18,36 L0,18 L-18,36 L-12,6 L-36,-6 L-6,-12 Z" transform="scale(1.5)"/>
+    </g>
+  </g>
+</svg>
