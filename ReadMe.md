@@ -20,6 +20,7 @@
 
 ## 🧠 My Focus Areas
 - Information Technology Infrastructure
+- Virtualization
 - Artificial Intelligence (AI)
 - Cybersecurity
 
