@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/lawer-krg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lawer-krg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="lawer-krg's GitHub Stat[...]
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lawer-krg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="lawer-krg's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=lawer-krg&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="lawer-krg's GitHub Streak" width="49%" />
 </p>
@@ -84,6 +84,24 @@
 
 </p>
 
+<h3 align="center">Virtualization</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
+
+</p>
+
+<h3 align="center">Operating Systems</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Red Hat" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" />
+
+</p>
+
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -121,4 +139,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
-
