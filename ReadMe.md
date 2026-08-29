@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lawer</h1>
-<h3 align="center"> Information Technology Consultant & | AI/ML Engineering</h3>
+<h3 align="center"> Information Technology Consultant & AI/ML Engineering</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=lawer-krg">
