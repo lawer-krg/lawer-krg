@@ -13,7 +13,7 @@
 - 🔭 Currently working on Last Version of Kompass Project
 - 🌱 Learning Mastering AI & Usage
 - 💬 Ask me about Anything, Especially Virtualization
-- 📫Reach me via IG or ✉️laweryounes635@gmail.com
+- 📫Reach me via IG @lawer.krg or ✉️ laweryounes635@gmail.com
 - ⚡ Fun fact Multilingual
 - 📄 Know about my experiences Via https://drive.google.com/file/d/1U1EjmV97nqqTM-9Nasx-3oRakKmJzcpO/view?usp=sharing
 
